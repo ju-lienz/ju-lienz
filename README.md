@@ -8,7 +8,7 @@ Soy Julieta, una apasionada programadora junior front-end especializada en Flutt
 
 ## Educación
 - Estudiante de Tecnicatura Superior en Programación en [ITSE](https://www.itse.gob.ar/view/i1.php) 🎓
-- Diseño UX/UI Avanzado en [CoderHouse](https://www.itse.gob.ar/view/i1.php](https://www.coderhouse.com/online/ux-ui-avanzado-online)) 🎨
+- Diseño UX/UI Avanzado en [CoderHouse](https://www.itse.gob.ar/view/i1.php](https://www.coderhouse.com/online/ux-ui-avanzado-online) 🎨
 
 ## Tecnologías
 - Flutter/Dart 📱

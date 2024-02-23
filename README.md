@@ -15,3 +15,6 @@ Soy Julieta, una apasionada programadora junior front-end especializada en [Flut
 - Figma 🎨
 - HTML/CSS 🌐
 - JavaScript 💻
+
+## Contacto
+- Link a mi [LinkedIn](www.linkedin.com/in/julieta-belen-perez)

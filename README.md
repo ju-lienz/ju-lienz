@@ -17,4 +17,4 @@ Soy Julieta, una apasionada programadora junior front-end especializada en [Flut
 - JavaScript 💻
 
 ## Contacto
-- Link a mi [LinkedIn](www.linkedin.com/in/julieta-belen-perez)
+- Link a mi [LinkedIn](www.linkedin.com/in/julieta-belen-perez) ☎️

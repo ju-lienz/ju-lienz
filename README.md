@@ -15,6 +15,7 @@ I'm Julieta, a passionate junior front-end developer specialized in [Flutter](ht
 - Flutter/Dart 📱
 - Figma 🎨
 - HTML/CSS 🌐
+- Vue.js 📗
 - JavaScript 💻
 
 ## Contact

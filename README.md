@@ -1,22 +1,25 @@
-# ¡Hi, I'm Juli! 👋🏻
+# Hi, I'm Juli! 👋🏻
 
-## About me
-I'm Julieta, a passionate junior front-end developer specialized in [Flutter](https://flutter.dev/) 💙  with experience in UX/UI design 🎨.  I love working on challenging projects that allow me to constantly learn. Currently, I'm deeply involved in the world of Flutter, where I apply my design and programming skills to create attractive and functional applications.
+## About Me
+I'm Julieta, a passionate **Front-End Developer** specializing in [Flutter](https://flutter.dev/) 💙, with a strong background in **UX/UI Design**. I thrive in dynamic environments where I can continuously learn and apply my skills to solve real-world problems. Currently, I'm focused on building engaging and efficient mobile apps with Flutter, blending both design and functionality to create seamless user experiences.
 
-## Experience
-- Mobile Developer (Flutter) at [Macamedia](https://www.macamedia.com.ar/#/) 👩🏻‍💻
-- UX/UI Designer at [Macamedia](https://www.macamedia.com.ar/#/) 👩🏻‍💻
+## Professional Experience
+- **Flutter Developer** at [Macamedia](https://www.macamedia.com.ar/#/) 👩🏻‍💻  
+  Developed mobile applications for iOS and Android, focusing on user experience and performance optimization.
+- **UX/UI Designer** at [Macamedia](https://www.macamedia.com.ar/#/) 🎨  
+  Designed intuitive interfaces and collaborated with developers to ensure smooth implementation of design specifications.
 
-## Educación
-- Student of Higher Technical Degree in Programming at [ITSE](https://www.itse.gob.ar/view/i1.php) 🎓
-- Advanced UX/UI Design at [Coderhouse](https://www.coderhouse.com/online/ux-ui-avanzado-online) 🎨
+## Education
+- **Higher Technical Degree in Programming** at [ITSE](https://www.itse.gob.ar/view/i1.php) 🎓  
+- **Advanced UX/UI Design** at [Coderhouse](https://www.coderhouse.com/online/ux-ui-avanzado-online) 🎨  
 
-## Technologies
-- Flutter/Dart 📱
-- Figma 🎨
-- HTML/CSS 🌐
-- Vue.js 📗
-- JavaScript 💻
+## Technologies & Tools
+- **Flutter/Dart** 📱  
+- **Riverpod & Bloc** for state management 🚀  
+- **Figma** for design 🎨  
+- **HTML/CSS** 🌐  
+- **Vue.js** 📗  
+- **JavaScript** 💻  
 
-## Contact
-- Link to my [LinkedIn](https://www.linkedin.com/in/julieta-belen-perez/) ☎️
+## Let's Connect!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/julieta-belen-perez/) ☎️

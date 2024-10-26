@@ -19,7 +19,9 @@ I'm Julieta, a passionate **Front-End Developer** specializing in [Flutter](http
 - **Figma** for design 🎨  
 - **HTML/CSS** 🌐  
 - **Vue.js** 📗  
-- **JavaScript** 💻  
+- **JavaScript** 💻
+- **Laravel** 🧮
+- **PHP** 🎫
 
 ## Let's Connect!
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/julieta-belen-perez/) ☎️

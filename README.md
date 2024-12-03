@@ -4,7 +4,7 @@
 I'm Julieta, a passionate **Front-End Developer** specializing in [Flutter](https://flutter.dev/) 💙, with a strong background in **UX/UI Design**. I thrive in dynamic environments where I can continuously learn and apply my skills to solve real-world problems. Currently, I'm focused on building engaging and efficient mobile apps with Flutter, blending both design and functionality to create seamless user experiences.
 
 ## Professional Experience
-- **UX/UI Developer** at [Criptala](https://www.criptala.io) 💻
+- **UX/UI Developer** at [Criptala](https://www.criptala.io) 💻 [present]
   Designed and developed user-centered interfaces for blockchain and cryptocurrency products, focusing on creating intuitive and secure user experiences in the Web3 ecosystem.
 - **Flutter Developer** at [Macamedia](https://www.macamedia.com.ar/#/) 👩🏻‍💻  
   Developed mobile applications for iOS and Android, focusing on user experience and performance optimization.

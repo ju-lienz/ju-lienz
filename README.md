@@ -1,6 +1,4 @@
 # Hi, I'm Juli! 👋🏻
-
-## About Me  
 I'm Julieta, a **Front-End Developer** specialized in **React.js**, with a strong foundation in **UX/UI Design** and previous experience in **Flutter**. I enjoy crafting clean, scalable, and user-centered web interfaces that deliver real value to users.
 
 ## Professional Experience  

@@ -16,10 +16,10 @@ I'm Julieta, a **Front-End Developer** specialized in **React.js**, with a stron
 - **React.js** ⚛️  
 - **JavaScript / TypeScript** 💻  
 - **HTML / CSS / Tailwind CSS** 🌐  
-- **Figma** for design & prototyping 🎨  
+- **Figma** 🎨  
 - **Flutter / Dart** 📱
 - **Vue.js** 📗
 - **Laravel / PHP** 🧮 
 
 ## Let's Connect!  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/julieta-belen-perez/) ☎️  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/julieta-belen-perez/) ☎️

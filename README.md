@@ -1,28 +1,27 @@
 # Hi, I'm Juli! 👋🏻
 
-## About Me
-I'm Julieta, a passionate **Front-End Developer** specializing in [Flutter](https://flutter.dev/) 💙, with a strong background in **UX/UI Design**. I thrive in dynamic environments where I can continuously learn and apply my skills to solve real-world problems. Currently, I'm focused on building engaging and efficient mobile apps with Flutter, blending both design and functionality to create seamless user experiences.
+## About Me  
+I'm Julieta, a **Front-End Developer** specialized in **React.js**, with a strong foundation in **UX/UI Design** and previous experience in **Flutter**. I enjoy crafting clean, scalable, and user-centered web interfaces that deliver real value to users.
 
-## Professional Experience
-- **UX/UI Developer** at [Criptala](https://www.criptala.io) 💻 [present]
-  Designed and developed user-centered interfaces for blockchain and cryptocurrency products, focusing on creating intuitive and secure user experiences in the Web3 ecosystem.
+## Professional Experience  
+- **Frontend Developer & UX/UI Designer** at [Criptala](https://www.criptala.io) 💻 [present]  
+  Designing and implementing web interfaces for fintech and blockchain-related products using React, while also collaborating in design systems and rebranding efforts.  
 - **Flutter Developer** at [Macamedia](https://www.macamedia.com.ar/#/) 👩🏻‍💻  
-  Developed mobile applications for iOS and Android, focusing on user experience and performance optimization.
+  Built and optimized cross-platform mobile apps for iOS and Android, with a strong focus on user experience and performance.  
 - **UX/UI Designer** at [Macamedia](https://www.macamedia.com.ar/#/) 🎨  
-  Designed intuitive interfaces and collaborated with developers to ensure smooth implementation of design specifications.
+  Created intuitive, responsive designs and worked closely with developers to ensure high-quality implementation.
 
-## Education
-- **Higher Technical Degree in Programming** at [ITSE](https://www.itse.gob.ar/view/i1.php) 🎓  
-- **Advanced UX/UI Design** at [Coderhouse](https://www.coderhouse.com/online/ux-ui-avanzado-online) 🎨  
+## Education  
+- **Higher Technical Degree in Programming** at [ITSE](https://www.itse.gob.ar/view/i1.php) 🎓
 
-## Technologies & Tools
-- **Flutter/Dart** 📱 
-- **Figma** for design 🎨  
-- **HTML/CSS** 🌐  
-- **Vue.js** 📗  
-- **JavaScript** 💻
-- **Laravel** 🧮
-- **PHP** 🎫
+## Technologies & Tools  
+- **React.js** ⚛️  
+- **JavaScript / TypeScript** 💻  
+- **HTML / CSS / Tailwind CSS** 🌐  
+- **Figma** for design & prototyping 🎨  
+- **Flutter / Dart** 📱
+- **Vue.js** 📗
+- **Laravel / PHP** 🧮 
 
-## Let's Connect!
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/julieta-belen-perez/) ☎️
+## Let's Connect!  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/julieta-belen-perez/) ☎️  

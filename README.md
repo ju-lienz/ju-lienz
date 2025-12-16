@@ -2,7 +2,7 @@
 I'm Julieta, a **Front-End Developer** specialized in **React.js**, with a strong foundation in **UX/UI Design** and previous experience in **Flutter**. I enjoy crafting clean, scalable, and user-centered web interfaces that deliver real value to users.
 
 ## Professional Experience  
-- **Frontend Developer & UX/UI Designer** at [Criptala](https://www.criptala.io) 💻 [present]  
+- **Frontend Developer & UX/UI Designer** at [Criptala](https://criptala.io) 💻 [present]  
   Designing and implementing web interfaces for fintech and blockchain-related products using React, while also collaborating in design systems and rebranding efforts.  
 - **Flutter Developer** at [Macamedia](https://www.macamedia.com.ar/#/) 👩🏻‍💻  
   Built and optimized cross-platform mobile apps for iOS and Android, with a strong focus on user experience and performance.  
